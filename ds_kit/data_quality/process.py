@@ -1,6 +1,6 @@
 """
 # Developer: Richard Raphael Banak
-# Objective: Class to help manage process automation on GCP
+# Objective: Class to help manage process monitoring on GCP
 # Creation date: 2021-11-15
 """
 from google.cloud import bigquery
