@@ -6,7 +6,7 @@
 from google.cloud import bigquery
 from google.cloud.exceptions import NotFound
 from datetime import datetime
-from ds_kit.gcp import big_query as bq
+from ds_kit.tools import big_query as bq
 
 
 class Process:
