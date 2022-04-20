@@ -1,7 +1,7 @@
 """
 # Developer: Richard Raphael Banak
 # Objective: Functions to help big query actions on GCP
-# Creation date: 2022-04-04
+# Creation date: 2022-04-01
 """
 
 from google.cloud import bigquery
