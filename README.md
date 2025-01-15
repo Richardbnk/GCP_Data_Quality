@@ -1,7 +1,6 @@
 # Data Quality system to manage monitor process on GCP
 
-## Python library to simplify RPA Development on GCP
-
+## Python library to simplify monitoring of automated processes 
 ### Author
 
 Name: Richard Raphael Banak
