@@ -1,24 +1,24 @@
-# Data Quality system to manage monitor process on GCP
+# Data Quality System for Monitoring Automated Processes on Google Cloud Platform (GCP)
 
-## Python library to simplify monitoring of automated processes 
+## Python Library for Simplified Monitoring of Automated Workflows
 ### Author
 
-Name: Richard Raphael Banak
+**Name**: Richard Raphael Banak
 
 ### Installation
 
-To install, run the command:
+To install the library, use the following command:
 
-```python
+```bash
 pip install git+https://github.com/Richardbnk/gcp_data_quality
 ```
 
-To update your packge use the command:
+To update the library, run:
 
-```python
+```bash
 pip install --upgrade git+https://github.com/Richardbnk/gcp_data_quality
 ```
 
 ### Requirements
 
-When you use the 'pip install', all requirements will be installed based on `requirements.txt`
+All necessary dependencies will be installed automatically when running the `pip install` command, as defined in the `requirements.txt` file.
