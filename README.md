@@ -1,4 +1,4 @@
-# Data Quality system to manage automated process on GCP
+# Data Quality system to manage monitor process on GCP
 
 ## Python library to simplify RPA Development on GCP
 
