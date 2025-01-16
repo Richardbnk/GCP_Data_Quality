@@ -10,13 +10,13 @@
 To install the library, use the following command:
 
 ```bash
-pip install git+https://github.com/Richardbnk/gcp_data_quality
+pip install git+https://github.com/Richardbnk/GCP_Data_Quality
 ```
 
 To update the library, run:
 
 ```bash
-pip install --upgrade git+https://github.com/Richardbnk/gcp_data_quality
+pip install --upgrade git+https://github.com/Richardbnk/GCP_Data_Quality
 ```
 
 ### Requirements
